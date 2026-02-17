@@ -10,6 +10,7 @@
 import streamlit as st
 import numpy as np
 import tensorflow as tf
+import pandas as pd
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Simple CNN Demo (MNIST)", layout="wide")
